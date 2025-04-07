@@ -1,0 +1,11 @@
+[2025-04-07 16:58:43] [INFO] 정보 메시지 from logger1
+[2025-04-07 16:58:43] [WARNING] 경고 메시지 from logger1
+[2025-04-07 16:58:43] [DEBUG] 디버그 메시지 from logger2 - 출력되어야 함
+[2025-04-07 16:58:43] [INFO] 정보 메시지 from logger2
+[2025-04-07 16:58:43] [ERROR] 예외 발생 - / by zero
+[2025-04-07 17:00:55] [INFO] 정보 메시지 from logger1
+[2025-04-07 17:00:55] [WARNING] 경고 메시지 from logger1
+[2025-04-07 17:00:55] [INFO] 정보 메시지 from logger2
+[2025-04-07 17:00:55] [ERROR] 예외 발생 - / by zero
+[INIT] Logger initialized with level: INFO
+[INIT] Logger initialized with level: INFO

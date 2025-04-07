@@ -1,0 +1,22 @@
+[INIT] Logger initialized with level: INFO
+[2025-04-07 19:27:24] [INFO] 정보 메시지 from logger1
+[2025-04-07 19:27:24] [WARNING] 경고 메시지 from logger1
+[2025-04-07 19:27:24] [DEBUG] 디버그 메시지 from logger2 - 이제 출력되어야 함
+[2025-04-07 19:27:24] [INFO] 정보 메시지 from logger2
+[2025-04-07 19:27:24] [ERROR] 예외 발생 - / by zero
+[2025-04-07 19:27:24] [INFO] 스레드 Thread-2에서 로그 작성
+[2025-04-07 19:27:24] [INFO] 스레드 Thread-3에서 로그 작성
+[2025-04-07 19:27:24] [INFO] 스레드 Thread-1에서 로그 작성
+[2025-04-07 19:27:24] [INFO] 스레드 Thread-0에서 로그 작성
+[2025-04-07 19:27:24] [INFO] 스레드 Thread-4에서 로그 작성
+[INIT] Logger initialized with level: INFO
+[2025-04-07 19:34:18] [INFO] 정보 메시지 from logger1
+[2025-04-07 19:34:18] [WARNING] 경고 메시지 from logger1
+[2025-04-07 19:34:18] [DEBUG] 디버그 메시지 from logger2 - 이제 출력되어야 함
+[2025-04-07 19:34:18] [INFO] 정보 메시지 from logger2
+[2025-04-07 19:34:18] [ERROR] 예외 발생 - / by zero
+[2025-04-07 19:34:18] [INFO] 스레드 Thread-3에서 로그 작성
+[2025-04-07 19:34:18] [INFO] 스레드 Thread-2에서 로그 작성
+[2025-04-07 19:34:18] [INFO] 스레드 Thread-1에서 로그 작성
+[2025-04-07 19:34:18] [INFO] 스레드 Thread-0에서 로그 작성
+[2025-04-07 19:34:18] [INFO] 스레드 Thread-4에서 로그 작성
